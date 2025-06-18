@@ -2,7 +2,7 @@
 
 ## What's This All About?
 
-This is a friendly sandbox repository designed to help you practice **Git collaboration skills** while working with Python and Data Science content. As you contribute your own quiz questions, you'll learn essential version control techniques that data scientists use every day!
+This is a sandbox repository designed to help you practice **Git collaboration skills** while working with Python and Data Science content. The repository contains a collection of quizzes written by contributors who are participating in the sandbox. As you contribute your own quiz questions, you'll learn essential version control techniques that data scientists use every day!
 
 ## Why Learn Git?
 
@@ -22,7 +22,7 @@ This repository serves as a safe playground where you can:
 5. **Push** to GitHub
 6. Submit a **Pull Request** back to this main repository
 
-Don't worry if you're new to these concepts! We've created a beginner-friendly guide to walk you through each step.
+Don't worry if you're new to these ideas and these approaches! There is also a beginner-friendly guide to walk you through each step.
 
 ## Getting Started
 
@@ -31,10 +31,6 @@ Follow the detailed instructions in the [Git Fork, Commit, and Contribution Guid
 ## What to Contribute
 
 You'll be creating multiple-choice quiz questions about Python, data science concepts, or data visualization. This helps you practice Git while reinforcing your knowledge of data science topics!
-
-## Need Help?
-
-Git can be challenging at first, but don't worry! The beauty of this repository is that it's designed to be a learning experience. If you make mistakes, that's perfectly okay—it's part of the learning process!
 
 ---
 
